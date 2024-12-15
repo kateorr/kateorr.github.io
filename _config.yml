@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Kate Orr"
 title_separator          : " | "
-subtitle                 : "Data Analytics" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Kate Orr"
 description              : "Data Scientist and Advanced Analytics Developer Katelyn Orr, Kate Orr, Katie Orr data analyst bi analytics finance fintech business intelligence hiring tableau power bi python manager"
 url                      : "https://kateorr.github.io"
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Kate Orr"
   avatar           : "/assets/images/Kate Orr.PNG"
-  bio              : "Advanced Analytics Consultant"
+  bio              : "Data Science | Advanced Analytics"
   location         : "San Diego, CA"
   email            : "katelyn.e.orr@gmail.com"
   links:
@@ -130,7 +130,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kateorr"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin style="color: #515050;""
       url: "https://linkedin.com/in/kate-e-orr"
 
 # Site Footer
