@@ -130,8 +130,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kateorr"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin style="color: #515050;""
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/kate-e-orr"
+      style: "color: #515050;"
 
 # Site Footer
 footer:
