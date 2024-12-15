@@ -18,7 +18,7 @@
 
   @include breakpoint($large) {
     float: inline-start;
-    width: calc(#{$right-sidebar-width-narrow} - 2em);
+    width: calc(#{$right-sidebar-width-narrow} - .5em);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
@@ -65,8 +65,8 @@
     width: 100%;
 
     &.emoji {
-      width: 20px;
-      height: 20px;
+      width: 30px;
+      height: 30px;
     }
   }
 }
@@ -124,8 +124,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 50px;
 
   @include breakpoint($large) {
     display: block;
