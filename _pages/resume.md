@@ -4,12 +4,47 @@ title: "Resume"
 permalink: /resume/
 ---
 
+I develop rapid prototypes and minimum viable data products for business units to enable iterative decision making, and encourage data-based innovation. <br><br>I have worked with Sales teams, Digital and Marketing teams, Legal and Compliance teams, and Strategy Teams. I empower business users with access to reliable data pipelines, actionable data insights, and interactive data visualizations. My work provides value to large enterprises by enabling new strategic initiatives, empowering business users with data, and upskilling data analysts across the organization via community. 
+<br> <br>
+
+---
+layout: single
+title: "Resume"
+permalink: /resume/
+---
+
 I develop rapid prototypes and minimum viable data products for business units to enable iterative decision making, and encourage data-based innovation. <br>I have worked with Sales teams, Digital and Marketing teams, Legal and Compliance teams, and Strategy Teams. I empower business users with access to reliable data pipelines, actionable data insights, and interactive data visualizations. My work provides value to large enterprises by enabling new strategic initiatives, empowering business users with data, and upskilling data analysts across the organization via community. 
 <br> <br>
 
-| <i class="fas fa-briefcase"></i> | **Assistant Vice President, Advanced Analytics** <br> LPL Financial <br> March 2023 - Present | - Productionalized a single source of truth business analytics dataset in Snowflake for use across 12 analytics teams. <br> - Developed and lead a cross-functional business analytics community of practice for 200+ BI analysts, data scientists, and data engineers. <br> - Developed a mentorship program that paired young analysts with mid-career data practitioners. <br> - Developed an Open AI integration to create a dataset that consistently and accurately reported competitive data about institutions across the US with an estimated annual value of $2.5 million. <br> - Advocated for BI and data team needs with Tech specialists while developing reasonable standards of practice for generating and consuming cloud-based datasets. |
-|| **Senior Analyst** <br> August 2021 - March 2023 | - Built a BI data pipeline, reducing project timelines by one week per project, saving $350,000 annually per team. <br> - Prototyped a user-facing recommendation system to prevent client attrition, which was funded for $3 million. <br> - Modeled user success and indicators of success at LPL Financial for an industry conference and white paper. <br> - Expanded a team from a three-person junior team to a five-person rapid prototyping team.|
-| <i class="fas fa-bullhorn"></i> | **Senior Digital Marketing Analyst** <br> Imagination Publishing <br> November 2019 - August 2020 | - Developed reports for Fortune 500 companies including Wells Fargo, Truist, Discover, and ASME. <br> - Reduced report building and delivery time by 75% via auatomating data pipelines. <br> - Implemented hypothesis testing and causal analysis (OLS, discontinuity regression) to understand trends across client goals, marketing platforms, and media types. <br> - Developed long-term testing strategies for new campaigns to optimize campaign performance. |
-| <i class="fas fa-chart-bar"></i> | **Business Reporting Analyst** <br> Vivint SmartHome <br> May 2017 - May 2018 | - Transformed business problems and survey data into concrete goals with Sales VPs and regional managers. <br> - Created ad-hoc reports to track and develop goals for sales managers. <br> - Reduced sales budget waste by 4% through regression and nearest neighbor analysis which predicted likely candidates for big-ticket incentives. |
-| <i class="fas fa-users"></i> | **Scaling Specialist** <br> Women Stat's Project <br> August 2016 - August 2017 | - Prepared data for presentation at the United Nation's Commission for Women's Rights. <br> - Worked as a member of a scaling team to review women's physical security data from the WomanStats database and coded it into a scale for further statistical analysis. <br> - Worked directly with WomanStat's head Dr. Hudson making final decisions as to how different countries should be classified under the scale. |
-| <i class="fas fa-university"></i> | **Economics Research Assistant** <br> Brigham Young University <br> January 2016 - August 2017 | - Applied econometric models and experimental methodologies to understanding impact of NGO's on social outcomes and investigating behavioral anomalies in pay negotiation. <br> - Took the lead on a 2-year research project in the Philippines, including design, implementation, and preliminary analysis. |
+<table>
+  <tr>
+    <td valign="top"><i class="fas fa-briefcase"></i></td>
+    <td valign="top"><strong>Assistant Vice President, Advanced Analytics</strong> <br> LPL Financial <br> March 2023 - Present</td>
+    <td valign="top">- Productionalized a single source of truth business analytics dataset in Snowflake for use across 12 analytics teams. <br> - Developed and lead a cross-functional business analytics community of practice for 200+ BI analysts, data scientists, and data engineers. <br> - Developed a mentorship program that paired young analysts with mid-career data practitioners. <br> - Developed an Open AI integration to create a dataset that consistently and accurately reported competitive data about institutions across the US with an estimated annual value of $2.5 million. <br> - Advocated for BI and data team needs with Tech specialists while developing reasonable standards of practice for generating and consuming cloud-based datasets.</td>
+  </tr>
+  <tr>
+    <td valign="top"></td>
+    <td valign="top"><strong>Senior Analyst</strong> <br> August 2021 - March 2023</td>
+    <td valign="top">- Built a BI data pipeline, reducing project timelines by one week per project, saving $350,000 annually per team. <br> - Prototyped a user-facing recommendation system to prevent client attrition, which was funded for $3 million. <br> - Modeled user success and indicators of success at LPL Financial for an industry conference and white paper. <br> - Expanded a team from a three-person junior team to a five-person rapid prototyping team.</td>
+  </tr>
+  <tr>
+    <td valign="top"><i class="fas fa-bullhorn"></i></td>
+    <td valign="top"><strong>Senior Digital Marketing Analyst</strong> <br> Imagination Publishing <br> November 2019 - August 2020</td>
+    <td valign="top">- Developed reports for Fortune 500 companies including Wells Fargo, Truist, Discover, and ASME. <br> - Reduced report building and delivery time by 75% via automating data pipelines. <br> - Implemented hypothesis testing and causal analysis (OLS, discontinuity regression) to understand trends across client goals, marketing platforms, and media types. <br> - Developed long-term testing strategies for new campaigns to optimize campaign performance.</td>
+  </tr>
+  <tr>
+    <td valign="top"><i class="fas fa-chart-bar"></i></td>
+    <td valign="top"><strong>Business Reporting Analyst</strong> <br> Vivint SmartHome <br> May 2017 - May 2018</td>
+    <td valign="top">- Transformed business problems and survey data into concrete goals with Sales VPs and regional managers. <br> - Created ad-hoc reports to track and develop goals for sales managers. <br> - Reduced sales budget waste by 4% through regression and nearest neighbor analysis which predicted likely candidates for big-ticket incentives.</td>
+  </tr>
+  <tr>
+    <td valign="top"><i class="fas fa-users"></i></td>
+    <td valign="top"><strong>Scaling Specialist</strong> <br> Women Stat's Project <br> August 2016 - August 2017</td>
+    <td valign="top">- Prepared data for presentation at the United Nation's Commission for Women's Rights. <br> - Worked as a member of a scaling team to review women's physical security data from the WomanStats database and coded it into a scale for further statistical analysis. <br> - Worked directly with WomanStat's head Dr. Hudson making final decisions as to how different countries should be classified under the scale.</td>
+  </tr>
+  <tr>
+    <td valign="top"><i class="fas fa-university"></i></td>
+    <td valign="top"><strong>Economics Research Assistant</strong> <br> Brigham Young University <br> January 2016 - August 2017</td>
+    <td valign="top">- Applied econometric models and experimental methodologies to understanding impact of NGO's on social outcomes and investigating behavioral anomalies in pay negotiation. <br> - Took the lead on a 2-year research project in the Philippines, including design, implementation, and preliminary analysis.</td>
+  </tr>
+</table>
