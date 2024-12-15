@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default"#, "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #, "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Kate Orr"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : " | "
+subtitle                 : "Data Analytics" # site tagline that appears below site title in masthead
 name                     : "Kate Orr"
 description              : "Data Scientist and Advanced Analytics Developer Katelyn Orr, Kate Orr, Katie Orr data analyst bi analytics finance fintech business intelligence hiring tableau power bi python manager"
 url                      : "https://kateorr.github.io"
