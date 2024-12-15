@@ -116,13 +116,10 @@ analytics:
 author:
   name             : "Kate Orr"
   avatar           : "/assets/images/Kate Orr.PNG"
-  bio              : "Data Science | Advanced Analytics"
+  bio              : "Data Science & Analytics"
   location         : "San Diego, CA"
   email            : "katelyn.e.orr@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://kateorr.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kateorr"
