@@ -43,7 +43,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), 
+    colorscheme          : # "light" (default), 
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -118,7 +118,7 @@ author:
   avatar           : "/assets/images/Kate Orr.PNG"
   bio              : "Advanced Analytics Consultant"
   location         : "San Diego, CA"
-  email            : katelyn.e.orr@gmail.com
+  email            : "katelyn.e.orr@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
