@@ -1,3 +1,9 @@
+---
+layout: page
+title: "About"
+permalink: /about/
+---
+
 # Explore My Work
 
 I am a data professional who builds intuitive data products for business users with sustainable back-ends for technical users. A data generalist, I have worked as an enterprise data consultant for teams across an organization, including sales, strategy, marketing, finance, compliance, legal, and customer care.
