@@ -1,13 +1,11 @@
 ---
 layout: single
-title: "About"
+title: "Explore My Work"
 permalink: /about/
+author_profile: true
 ---
+I am a data professional who builds intuitive data products for business users with sustainable back-ends for technical users. As an enterprise data generalist, I have consulted for various teams, including sales, strategy, marketing, finance, compliance, legal, and customer care.
 
-# Explore My Work
+I build data teams to rapidly develop MVPs and POCs for business units and develop long-term data analytics communities to solve persistant and complex data problems. 
 
-I am a data professional who builds intuitive data products for business users with sustainable back-ends for technical users. A data generalist, I have worked as an enterprise data consultant for teams across an organization, including sales, strategy, marketing, finance, compliance, legal, and customer care.
-
-I build data teams to quickly develop MVPs and POCs for business units, and invest long-term in developing data analytics communities to share solutions to an organizations most persistant and complex data problems. 
-
-Please feel free to peruse my portfolio, check out my CV, and get in touch if you are interested in working together.
+Please feel free to explore my portfolio, review my CV, and contact me if you are interested in working together.
