@@ -21,6 +21,8 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  background-color: $background-color;
+  color: $text-color;
   min-height: 100vh;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
