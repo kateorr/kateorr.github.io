@@ -1,11 +1,13 @@
 ---
 layout: single
-title: "Explore My Work"
+title: "About Me"
 permalink: /about/
 author_profile: true
 ---
-I am a data professional who builds intuitive data products for business users with sustainable back-ends for technical users. As an enterprise data generalist, I consult for various teams, including sales, strategy, marketing, finance, compliance, legal, and customer care.
+I specialize in building sustainable data products for organizational use. My experience collaborating with Sales, Digital, Marketing, Finance, Legal and Compliance, Product, and Customer Service teams has made me a versatile data generalist. I create intuitive dashboards and visualizations using tools like Tableau and Power BI for everyone from executives to junior analysts to front-end users.
 
-I build data teams to rapidly develop MVPs and POCs for business units and develop long-term data communities to solve persistant and complex enterprise data problems. 
+On the back-end, I am dedicated to developing sustainable data processes. I have implemented version control standards using Git, Agile methodology, and data documentation patterns. Additionally, I have created a suite of stakeholder-facing documentation templates, including statements of work, impact measurement plans, and weekly updates. I also focus on upskilling other analysts to maintain and enhance my work, ensuring high standards of craftsmanship across various data stewards and users.
 
-Please feel free to explore my portfolio, review my CV, and contact me if you are interested in working together.
+I have successfully transitioned to sustainable data models by leveraging cloud infrastructure, including Snowflake and AWS. This transition has enabled scalable, efficient, and secure data management, supporting advanced analytics and real-time data processing.
+
+When I’m not in the office, you can find me rock climbing around Southern California, cooking fruit tarts, and playing Scythe or Seven Wonders.
