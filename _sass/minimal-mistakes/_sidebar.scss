@@ -8,7 +8,7 @@
 
 .sidebar {
   @include clearfix();
-  background-color: $primary-color;
+  background-color: $light-background-color;
   // @include breakpoint(max-width $large) {
   //   /* fix z-index order of follow links */
   //   position: relative;
@@ -152,7 +152,7 @@
   line-height: 1;
   text-align: center;
   padding-inline: 15px 25px;
-  background-color: $primary-color; /* Light blue background color */
+  background-color: $light-background-color; /* Light blue background color */
   padding: 10px; /* Add padding */
   border-radius: 5px; /* Optional: Add rounded corners */
 
