@@ -8,6 +8,7 @@
 
 .sidebar {
   @include clearfix();
+  background-color: #2d82b7;
   // @include breakpoint(max-width $large) {
   //   /* fix z-index order of follow links */
   //   position: relative;
