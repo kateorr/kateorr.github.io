@@ -150,11 +150,15 @@
   vertical-align: top;
   padding-inline: 15px 25px;
   line-height: 1;
+  padding-inline: 15px 25px;
+  background-color: $primary-color; /* Light blue background color */
+  padding: 10px; /* Add padding */
+  border-radius: 5px; /* Optional: Add rounded corners */
 
   @include breakpoint($large) {
     display: block;
     width: 100%;
-    padding-inline: 0;
+    padding-inline: 15px 25px;
   }
 
   a {
