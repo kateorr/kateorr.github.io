@@ -4,6 +4,7 @@
 
 /* Colors */
 $background-color: #01175a !default;
+$light-background-color: mix(#fff, $background-color, 30%) !default;
 $text-color: #ffffff !default;
 $primary-color: #2d82b7 !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
